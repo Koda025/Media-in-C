@@ -1,2 +1,2 @@
-# Media-in-C
+# C
 Programming in C
